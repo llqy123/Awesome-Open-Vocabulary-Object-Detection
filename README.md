@@ -2,9 +2,13 @@
 
 # 2025
 
+- CAKE: Category Aware Knowledge Extraction for Open-Vocabulary Object Detection (AAAI 2025) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32639#:~:text=To%20address%20these%20two%20problems%2C%20we%20propose%20a,and%20a%20Category%20Generalization%20Region%20Proposal%20Network%20%28CG-RPN%29.)
+
 - A Hierarchical Semantic Distillation Framework for Open-Vocabulary Object Detection (TMM 2025) [[paper]](https://arxiv.org/abs/2503.10152) [[code]](https://github.com/iSEE-Laboratory/HD-OVD/tree/main)
   
 # 2024
+
+- LLMS Meet VLMS: Boost Open Vocabular Object Detection With Fine-Grained Descriptors (ICLR 2024) [[paper]](https://arxiv.org/pdf/2402.04630)
 
 - SIA-OVD: Shape-Invariant Adapter for Bridging the Image-Region Gap in Open-Vocabulary Detection (ACM MM 2024) [[paper]](https://arxiv.org/pdf/2410.05650) [[code]](https://github.com/PKU-ICST-MIPL/SIA-OVD_ACMMM2024)
 
