@@ -1,7 +1,7 @@
 ## Awesome-Open-Vocabulary-Object-Detection
 
 # 2025
-
+- SAM based Region-Word Clustering and Inference Score Adjusting for Open-Vocabulary Object Detection (MM 2025) [[paper]](https://dl.acm.org/doi/10.1145/3746027.3754501)
 - CAKE: Category Aware Knowledge Extraction for Open-Vocabulary Object Detection (AAAI 2025) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32639#:~:text=To%20address%20these%20two%20problems%2C%20we%20propose%20a,and%20a%20Category%20Generalization%20Region%20Proposal%20Network%20%28CG-RPN%29.)
 
 - A Hierarchical Semantic Distillation Framework for Open-Vocabulary Object Detection (TMM 2025) [[paper]](https://arxiv.org/abs/2503.10152) [[code]](https://github.com/iSEE-Laboratory/HD-OVD/tree/main)
