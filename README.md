@@ -2,14 +2,20 @@
 
 # 2025
 - SAM based Region-Word Clustering and Inference Score Adjusting for Open-Vocabulary Object Detection (MM 2025) [[paper]](https://dl.acm.org/doi/10.1145/3746027.3754501)
+  
+- Benefit From Seen: Enhancing Open-Vocabulary Object Detection by Bridging Visual and Textual Co-Occurrence Knowledge (ICCV 2025) [[paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_Benefit_From_Seen_Enhancing_Open-Vocabulary_Object_Detection_by_Bridging_Visual_ICCV_2025_paper.pdf)
+  
 - CAKE: Category Aware Knowledge Extraction for Open-Vocabulary Object Detection (AAAI 2025) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32639#:~:text=To%20address%20these%20two%20problems%2C%20we%20propose%20a,and%20a%20Category%20Generalization%20Region%20Proposal%20Network%20%28CG-RPN%29.)
 
 - A Hierarchical Semantic Distillation Framework for Open-Vocabulary Object Detection (TMM 2025) [[paper]](https://arxiv.org/abs/2503.10152) [[code]](https://github.com/iSEE-Laboratory/HD-OVD/tree/main)
   
 # 2024
+- MarvelOVD: Marrying Object Recognition and Vision-Language Models for Robust Open-Vocabulary Object Detection (ECCV 2024) [[paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02551.pdf)
 
+- LaMI-DETR: Open-Vocabulary Detection with Language Model Instruction (ECCV 2024) [[paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03396.pdf)
+  
 - LLMS Meet VLMS: Boost Open Vocabular Object Detection With Fine-Grained Descriptors (ICLR 2024) [[paper]](https://arxiv.org/pdf/2402.04630)
-
+  
 - SIA-OVD: Shape-Invariant Adapter for Bridging the Image-Region Gap in Open-Vocabulary Detection (ACM MM 2024) [[paper]](https://arxiv.org/pdf/2410.05650) [[code]](https://github.com/PKU-ICST-MIPL/SIA-OVD_ACMMM2024)
 
 - CLIFF: Continual Latent Diffusion for Open-Vocabulary Object Detection (ECCV 2024) [[paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07221.pdf) [[code]](https://github.com/CUHK-AIM-Group/CLIFF)
@@ -43,6 +49,7 @@
 - Learning Object-Language Alignments for Open-Vocabulary Object Detection (ICLR 2023) [[paper]](https://openreview.net/pdf?id=mjHlitXvReu) [[code]](https://github.com/clin1223/VLDet)
 
 # 2022
+-Exploiting Unlabeled Data with Vision and Language Models for Object Detection (ECCV 2022) [[paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136690156.pdf)
 
 - Bridging the Gap between Object and Image-level Representations for Open-Vocabulary Detection (NeurIPS 2022) [[paper]](https://openreview.net/forum?id=aKXBrj0DHm) [[code]](https://github.com/hanoonaR/object-centric-ovd)
 
