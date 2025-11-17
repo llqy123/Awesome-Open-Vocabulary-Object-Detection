@@ -1,7 +1,7 @@
 ## Awesome-Open-Vocabulary-Object-Detection
 
 # 2025
-- SAM based Region-Word Clustering and Inference Score Adjusting for Open-Vocabulary Object Detection (MM 2025) [[paper]](https://dl.acm.org/doi/10.1145/3746027.3754501)
+- SAM based Region-Word Clustering and Inference Score Adjusting for Open-Vocabulary Object Detection (ACM MM 2025) [[paper]](https://dl.acm.org/doi/10.1145/3746027.3754501)
   
 - Benefit From Seen: Enhancing Open-Vocabulary Object Detection by Bridging Visual and Textual Co-Occurrence Knowledge (ICCV 2025) [[paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_Benefit_From_Seen_Enhancing_Open-Vocabulary_Object_Detection_by_Bridging_Visual_ICCV_2025_paper.pdf)
   
