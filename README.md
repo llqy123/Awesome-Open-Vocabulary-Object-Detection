@@ -49,7 +49,7 @@
 - Learning Object-Language Alignments for Open-Vocabulary Object Detection (ICLR 2023) [[paper]](https://openreview.net/pdf?id=mjHlitXvReu) [[code]](https://github.com/clin1223/VLDet)
 
 # 2022
--Exploiting Unlabeled Data with Vision and Language Models for Object Detection (ECCV 2022) [[paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136690156.pdf)
+- Exploiting Unlabeled Data with Vision and Language Models for Object Detection (ECCV 2022) [[paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136690156.pdf)
 
 - Bridging the Gap between Object and Image-level Representations for Open-Vocabulary Detection (NeurIPS 2022) [[paper]](https://openreview.net/forum?id=aKXBrj0DHm) [[code]](https://github.com/hanoonaR/object-centric-ovd)
 
